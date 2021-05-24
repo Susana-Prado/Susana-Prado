@@ -16,6 +16,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Susana-Prado&show_icons=true&theme=react&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Susana-Prado&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Susana-Prado)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
