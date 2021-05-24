@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on [BookMeApp][https://github.com/Susana-Prado/BookMeApp]
 - 🌱 I’m currently learning **React** 
 - 📫 Contact me through **susana.prado01@gmail.com**
--[<img align="left" alt="Susana-Prado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/susana-prado/]
+- [<img align="left" alt="Susana-Prado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/susana-prado/]
 
 
 <h3 align="left">Tech skills:</h3>
