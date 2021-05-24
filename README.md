@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Susana 👋<h1>
-<h3 align="center">Full stack Developer<h3>
+<h1 align="center">Hi, I'm Susana 👋</h1>
+<h3 align="center">Full Stack Developer.</h3>
 
 - 🔭 I'm currently working on [BookMeApp](https://github.com/Susana-Prado/BookMeApp)
 - 🌱 I’m currently learning **React** 
