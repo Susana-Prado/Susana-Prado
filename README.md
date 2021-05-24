@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Susana 👋<h1>
-
 <h3 align="center">Full stack Developer<h3>
 
 - 🔭 I'm currently working on [BookMeApp](https://github.com/Susana-Prado/BookMeApp)
