@@ -37,7 +37,9 @@
     <summary>:zap: Github Stats</summary>
 <img align="left" alt="Susana Github Stats" src="https://github-readme-stats.vercel.app/api?username=Susana-Prado&show_icons=true&theme=react&hide_border=true" />
 </details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Susana-Prado&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+    <summary>:zap: Top Langs</summary>
+<img align="left" alt="Susana Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susana-Prado&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" /></details>
 
 
 
