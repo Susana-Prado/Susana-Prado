@@ -42,7 +42,7 @@
     <div>
 <details>
     <summary>:zap: Top Langs</summary>
-<img align="left" alt="Susana Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susana-Prado&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" /></details>
+<img align="center" alt="Susana Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susana-Prado&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" /></details>
     </div>
 
 
