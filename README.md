@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on [BookMeApp](https://github.com/Susana-Prado/BookMeApp)
 - 🌱 I’m currently learning **React** and **GraphQL**
 - 👯 I’m looking to collaborate with other content creators
-- 📫 Contact me through **susana.prado01@gmail.com** or
+- 📫 Contact me through **susana.prado01@gmail.com** 
 
 ### Connect with me:
 <h5 align="left">
@@ -15,7 +15,7 @@
 <h3 align="left">Tech skills:</h3>
 
 <p align="left"> 
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right: 10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
  <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> 
