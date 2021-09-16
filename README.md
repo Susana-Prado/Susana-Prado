@@ -34,12 +34,11 @@
 </p>
 
 <div>
-    <details>
     <summary>:zap: Github Stats</summary>
 <img align="left" alt="Susana Github Stats" src="https://github-readme-stats.vercel.app/api?username=Susana-Prado&show_icons=true&theme=react&hide_border=true" />
-</details>
+
     </div>
-    <br />
+
     <div>
 <details>
     <summary>:zap: Top Langs</summary>
