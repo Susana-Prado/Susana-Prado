@@ -2,8 +2,12 @@
 <h3 align="center">Full Stack Developer.</h3>
 
 - 🔭 I'm currently working on [BookMeApp](https://github.com/Susana-Prado/BookMeApp)
-- 🌱 I’m currently learning **React** 
-- 📫 Contact me through **susana.prado01@gmail.com**
+- 🌱 I’m currently learning **React** and **GraphQL**
+- 👯 I’m looking to collaborate with other content creators
+- 📫 Contact me through **susana.prado01@gmail.com** or
+
+### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/susana-prado/)
 <h5 align="left">
     <code><a href="https://www.linkedin.com/in/susana-prado/" title="LinkedIn Profile"><img width="22" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/linkedin_wzkegb.svg"> LinkedIn </a></code>
 </h5>
