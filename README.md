@@ -7,7 +7,7 @@
 - 📫 Contact me through **susana.prado01@gmail.com** or
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/susana-prado/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/susana-prado/)
 <h5 align="left">
     <code><a href="https://www.linkedin.com/in/susana-prado/" title="LinkedIn Profile"><img width="22" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/linkedin_wzkegb.svg"> LinkedIn </a></code>
 </h5>
