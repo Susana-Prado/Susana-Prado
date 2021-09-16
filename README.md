@@ -35,7 +35,7 @@
 
 <details>
     <summary>:zap: Github Stats</summary>
-<img width="100px" align="left" alt="Susana Github Stats" src="https://github-readme-stats.vercel.app/api?username=Susana-Prado&show_icons=true&theme=react&hide_border=true" />
+<img align="left" alt="Susana Github Stats" src="https://github-readme-stats.vercel.app/api?username=Susana-Prado&show_icons=true&theme=react&hide_border=true" />
 </details>
 <details>
     <summary>:zap: Top Langs</summary>
