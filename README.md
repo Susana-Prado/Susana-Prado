@@ -33,13 +33,17 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
 
-<details>
+<div>
+    <details>
     <summary>:zap: Github Stats</summary>
 <img align="left" alt="Susana Github Stats" src="https://github-readme-stats.vercel.app/api?username=Susana-Prado&show_icons=true&theme=react&hide_border=true" />
 </details>
+    </div>
+    <div>
 <details>
     <summary>:zap: Top Langs</summary>
 <img align="left" alt="Susana Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susana-Prado&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" /></details>
+    </div>
 
 
 
