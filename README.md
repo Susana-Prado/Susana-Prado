@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Susana 👋</h1>
-<h3 align="center">Full Stack Developer.</h3>
+<h3 align="center">Front-end Developer.</h3>
 
-- 🔭 I'm currently working on [BookMeApp](https://github.com/Susana-Prado/BookMeApp)
-- 🌱 I’m currently learning **React** and **GraphQL**
+- 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate with other content creators
 - 📫 Contact me through **susana.prado01@gmail.com** 
 
