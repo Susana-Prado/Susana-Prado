@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Susana 👋</h1>
 <h3 align="center">Front-end Developer.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate with other content creators
 - 📫 Contact me through **susana.prado01@gmail.com** 
 
